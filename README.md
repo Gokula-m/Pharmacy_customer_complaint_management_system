@@ -106,6 +106,19 @@ Generates a concise complaint summary suitable for QA investigation records.
 
 ---
 
+### ⚠️ Severity & Risk Classification
+
+The AI evaluates each complaint using pharmaceutical Quality Management System (QMS) principles to determine its Severity, Priority, and Risk Assessment. This helps QA teams identify critical issues quickly and prioritize investigations consistently.
+
+---
+
+### 📋 CAPA Recommendation
+
+Based on the complaint analysis, the AI generates appropriate Corrective and Preventive Action (CAPA) recommendations. These suggestions assist Quality Assurance teams in defining investigation steps, containment actions, and preventive measures to reduce future occurrences.
+
+---
+
+
 # 🔄 End-to-End Workflow
 
 ```
